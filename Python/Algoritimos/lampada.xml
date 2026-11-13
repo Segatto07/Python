@@ -1,0 +1,86 @@
+viu que a lampada esta queimada
+
+Identifique em que lugar (local) a lampada esta queimada
+
+Va a um comercio comprar a lampada
+
+Verifique qual o modelo da lâmpada que você precisa.
+
+SE tiver o modelo coreto da lâmpada
+Continue
+
+SE NÂO 
+Va em outro comercio e volte para a etapa 7
+
+passe no caixa para pagar
+
+volte para trocar a lâmpada 
+
+desligue o disjuntor de energia que alimenta a lâmpada.
+
+Identifique qual o tipo de conector da lâmpada
+
+precisa de escada?
+
+SE SIM 
+Pegue a escada e posicione onde a lâmpada queimada está 
+
+SE NÃO
+Prossiga para a etapa 32
+
+suba na escada 
+
+Tire a lâmpada quebrada do conecto
+
+guarde a lâmpada queimada
+
+coloque a lâmpada nova 
+
+ligue o disjuntor de energia ou a tomada da luz
+
+SE a lâmpada ligar.
+Serviço completo com sucesso
+SE NÃO
+	Verifique se o disjuntor está ligado 
+	Se ouver energia e a lâmpada não ligar 
+	Solicitar um eletricista
+SE NÃO
+	ligar para a central de energia, pedir a manutenção para que a energia volte
+Aguarde até a energia voltar
+
+Confirme que se a lâmpada esta funcionando
+SE SIM 
+	Serviço completo com sucesso
+SE NÂO
+	Verificar se a lâmpada que você quebrou esta funcionando 
+Vá para outro lugar que tenha o mesmo modelo de lâmpada já instalada e em funcionamento
+precisa de escada?
+
+SE SIM
+Pegue a escada e posicione onde a lâmpada queimada está
+
+SE NÃO
+Prossiga para a etapa 
+
+Suba na escada 
+
+tire a lâmpada que esta funcionando 
+
+volte para o local inicial
+
+pegue a escada se necessário 
+
+Coloque a lâmpada que você pegou em outro lugar 
+
+No local da lâmpada queimada
+
+Funcionou
+
+SE SIM
+	Significa que a lâmpada que foi comprada esta queimada
+
+SE NÃO
+	Significa que o problema esta no conector Femea / ou no cabo que vem direto do disjuntor de energia.
+
+
+Fim.
